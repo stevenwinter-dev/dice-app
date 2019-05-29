@@ -1,0 +1,18 @@
+.Die {
+    font-size: 10em;
+    padding: 0.25em;
+    color: darkcyan;
+}
+
+button {
+    background-color: darkcyan;
+    border: none;
+    color: white;
+    padding: 1.5rem 4rem;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
